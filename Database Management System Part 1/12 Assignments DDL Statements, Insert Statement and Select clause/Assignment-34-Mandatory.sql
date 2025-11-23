@@ -1,0 +1,7 @@
+Insert the following data into City table.
+
+City
+Mysore
+
+
+Query : INSERT INTO City VALUES('Mysore')
